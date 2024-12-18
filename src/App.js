@@ -11,7 +11,10 @@ function App() {
 
     </div>
     <footer>
-<p>This project was coded by  <a href="https://github.com/Emili-Santana/react-weather-app-main" target="_blank" rel="noreferrer">Emili Santana</a> and is open-sourced on <a href="https://github.com/Emili-Santana/Weather-Forecast-App" target="_blank" rel="noreferrer">Github</a> and hosted on <a href="https://new-weather-forecast-react.netlify.app/" target="_blank" rel="noreferrer"> Netlify </a>
+<p>This project was coded by  <a href="https://github.com/Emili-Santana/react-weather-app-main" target="_blank" rel="noreferrer">Emili Santana</a> 
+and is open-sourced on
+ <a href="https://github.com/Emili-Santana/forecast-react" target="_blank" rel="noreferrer">Github</a> 
+ and hosted on <a href="https://my-forecast-react.netlify.app/" target="_blank" rel="noreferrer"> Netlify </a>
 </p>
 </footer>
     </div>
