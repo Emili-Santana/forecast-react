@@ -3,13 +3,13 @@
   color: white;
   border: 1px solid #dadde1;
   border-radius: 4px;
-  max-width: 700px;
+  max-width: 600px;
   margin: 5px auto;
 padding: 10px ;
 }
 
 .App footer {
-  font-size: 12px;
+  font-size: 14px;
   margin: 10px 0 0 -10px;
   text-align: center;
   padding-bottom: px;
