@@ -7,11 +7,16 @@
 }
 
 .Weather h1 {
-    font-size: 80px;
+    font-size: 44px;
     margin-bottom: 20px;
     margin-left: 20px;
 }
 
+
+.Weather h1 bi{
+    font-size: 12px;
+
+}
 .Weather form {
     margin-bottom: 20px;
 }
